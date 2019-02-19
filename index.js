@@ -20,6 +20,7 @@ function iLoveTheBeatles(n){
   var temp = []
   do {
     temp.push("I love the Beatles!");
+    n++;
   }
   while (n < 15)
   return temp
