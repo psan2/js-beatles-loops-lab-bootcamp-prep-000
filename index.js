@@ -22,4 +22,5 @@ function iLoveTheBeatles(n){
     temp.push("I love the Beatles!");
   }
   while (n < 15)
+  return temp
 }
